@@ -1,7 +1,7 @@
 # Site settings
 title:          Zongquan
 description:    "一份坚持，一份收获"
-baseurl:        "/"
+baseurl:        ""
 url:            "https://blog.zqai.run/"
 
 # Google Analytics
