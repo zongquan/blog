@@ -1,6 +1,6 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+title:          Zongquan
+description:    "一份坚持，一份收获"
 baseurl:        "/"
 url:            "https://blog.zqai.run/"
 
@@ -9,9 +9,9 @@ google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Zongquan
+  url:          https://blog.zqai.run/
+  email:        aizquan@qq.com
 
 # Build settings
 markdown:       kramdown
