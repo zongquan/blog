@@ -1,4 +1,9 @@
-# 《肖申克的救赎》献给正待毕业的朋友们
+---
+layout: post
+title:  "《肖申克的救赎》献给正待毕业的朋友们"
+author: "Zongquan"
+comments: false
+---
 
 我喜欢重看电影，特别是一些经典的电影。
 

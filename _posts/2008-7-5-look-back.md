@@ -1,4 +1,9 @@
-# 蓦然回首
+---
+layout: post
+title:  "蓦然回首"
+author: "Zongquan"
+comments: false
+---
 
 蓦然回首，大学生活竟如此短暂。
 

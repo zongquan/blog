@@ -1,4 +1,9 @@
-# 当"理想"已成为往事
+---
+layout: post
+title:  "当\"理想\"已成为往事"
+author: "Zongquan"
+comments: false
+---
 
 ​     有些东西，是你永远都想伸手去抓，却抓不住的。
 

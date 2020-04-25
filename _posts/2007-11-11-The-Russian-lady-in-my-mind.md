@@ -1,4 +1,9 @@
-# The Russian lady in my mind
+---
+layout: post
+title:  "The Russian lady in my mind"
+author: "Zongquan"
+comments: false
+---
 
 "Science and Technology is the first Productivity!" our famous leader Deng had ever said that. No Science and Technology, and no Economics.
 

@@ -1,4 +1,9 @@
-# 个人魅力
+---
+layout: post
+title:  "个人魅力"
+author: "Zongquan"
+comments: false
+---
 
 今天又看了一下余世维的讲坐——如何做一个成功的经理人。
 
