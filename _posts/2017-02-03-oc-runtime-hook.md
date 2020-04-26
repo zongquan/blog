@@ -47,7 +47,7 @@ API： method_exchangeImplementations 交换方法。
 
 执行下面的这个函数，找到正确的Class，然后再往Class里添加方法和交换方法，问题就解决了：
 
-```objective-c
+```c++
 Class GetSelectorInsClass(Class hclass, SEL sel, Method sel_method) {
     Class super_class = [hclass superclass];
     if (!super_class) {
