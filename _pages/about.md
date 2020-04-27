@@ -5,11 +5,20 @@ author: "Zongquan"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+Zongquan - 程序猿
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+忙碌的工作之余，也会选择在这里停留，用文字记录一些值得回忆的东西
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
 
-Thanks for reading!
+
+* 2008毕业 - 深圳大学 计算机科学与技术 
+* 2008 ~ 2016 游戏行业
+  * Bigworld端游、Flash网页游戏、Unity3D手游
+* 2016 ~ 现在 信息安全、移动App安全
+
+
+
+微信：
+
+![](/assets/images/we_chat.jpg)
+
