@@ -22,5 +22,6 @@ Zongquan - 程序猿
 
 微信：
 
+{% highlight html linenos %}
 <img src="/assets/images/we_chat.jpg" width = 40% height =40%>
-
+{% endhighlight %}
